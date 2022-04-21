@@ -35,6 +35,7 @@ public class ArrayMania {
         System.out.println(Arrays.toString(A));
         System.out.println(Arrays.toString(B));
         
+        System.out.println("Fin de ejecución!");
         
     }
     
