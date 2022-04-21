@@ -18,6 +18,8 @@ public class ArrayMania {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Comienzo de ejecución!");
+        
         float[]A = new float[50];
         float[]B = new float[20];
         
